@@ -71,6 +71,7 @@ The README file serves as the introduction to a project, helping users and contr
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+
 # Public vs. Private Repositories on GitHub  
 
 ## Key Differences  
